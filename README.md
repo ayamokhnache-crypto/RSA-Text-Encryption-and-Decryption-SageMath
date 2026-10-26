@@ -23,7 +23,7 @@ The implementation combines RSA operations with character encoding, prime-number
 
 ## How to Run
 
-1. Install SageMath on Ubuntu.
+1. Install SageMath in your Ubuntu environment through WSL.
 2. Download or clone this repository.
 3. Open `RSA-Text.ipynb` using a Jupyter environment configured with a SageMath kernel.
 4. Execute the notebook cells in order.
